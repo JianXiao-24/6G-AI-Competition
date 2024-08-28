@@ -1,1 +1,1 @@
-This code got the fourth place for AI-based Joint Channel Estimation and Channel State Information Feedback task in Wireless Communication AI Competition (WAIC) 2022.
+This code got the fourth place for AI based Channel Modeling and Generating task in 6G AI-Competition hosted by the Guangdong OPPO Mobile Telecommunications Corp., Ltd.
